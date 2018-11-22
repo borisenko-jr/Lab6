@@ -1,0 +1,13 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\bin\Debug\AutoScroll_and_Constrain.exe.config
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\bin\Debug\AutoScroll_and_Constrain.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\bin\Debug\AutoScroll_and_Constrain.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\bin\Debug\PictureElement.dll
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\bin\Debug\PictureElement.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\obj\Debug\AutoScroll_and_Constrain.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\obj\Debug\AutoScroll_and_Constrain.Form1.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\obj\Debug\AutoScroll_and_Constrain.Properties.Resources.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\obj\Debug\AutoScroll_and_Constrain.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\obj\Debug\AutoScroll_and_Constrain.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\obj\Debug\AutoScroll_and_Constrain.csproj.CopyComplete
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\obj\Debug\AutoScroll_and_Constrain.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_6\AutoScroll_and_Constrain\AutoScroll_and_Constrain\obj\Debug\AutoScroll_and_Constrain.pdb

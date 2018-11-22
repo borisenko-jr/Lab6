@@ -1,0 +1,8 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureElement\PictureElement\bin\Debug\PictureElement.dll
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureElement\PictureElement\bin\Debug\PictureElement.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureElement\PictureElement\obj\Debug\PictureElement.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureElement\PictureElement\obj\Debug\PictureElement.NamePictureElement.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureElement\PictureElement\obj\Debug\PictureElement.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureElement\PictureElement\obj\Debug\PictureElement.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureElement\PictureElement\obj\Debug\PictureElement.dll
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureElement\PictureElement\obj\Debug\PictureElement.pdb

@@ -1,0 +1,8 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_6\bin\Debug\TextEditor.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_6\bin\Debug\TextEditor.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_6\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\obj\Debug\TextEditor.Form1.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_6\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\obj\Debug\TextEditor.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_6\obj\Debug\TextEditor.pdb

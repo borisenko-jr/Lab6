@@ -1,0 +1,11 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\bin\Debug\EasyPaint.exe.config
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\bin\Debug\EasyPaint.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\bin\Debug\EasyPaint.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\obj\Debug\EasyPaint.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\obj\Debug\EasyPaint.Form1.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\obj\Debug\EasyPaint.Properties.Resources.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\obj\Debug\EasyPaint.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\obj\Debug\EasyPaint.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\obj\Debug\EasyPaint.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\obj\Debug\EasyPaint.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_6\EasyPaint\EasyPaint\obj\Debug\EasyPaint.LineWidth.resources

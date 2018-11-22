@@ -1,0 +1,20 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_6\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\Универ\3 курс\Лабы\C#\Lab_6-master\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
